@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{1602FB3E-64ED-47B5-B622-471187F7EA37}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SaveTheEnvironment/Program.cs">
+    <Files>
+      <File FileName="SaveTheEnvironment/Program.cs" Line="20" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SaveTheEnvironment" expanded="True">
+            <Node name="SaveTheEnvironment" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SaveTheEnvironment PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

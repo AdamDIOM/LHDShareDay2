@@ -1,0 +1,6 @@
+/Users/adam/Desktop/SaveTheEnvironment/SaveTheEnvironment/bin/Debug/SaveTheEnvironment.exe
+/Users/adam/Desktop/SaveTheEnvironment/SaveTheEnvironment/bin/Debug/SaveTheEnvironment.pdb
+/Users/adam/Desktop/SaveTheEnvironment/SaveTheEnvironment/obj/Debug/SaveTheEnvironment.csprojAssemblyReference.cache
+/Users/adam/Desktop/SaveTheEnvironment/SaveTheEnvironment/obj/Debug/SaveTheEnvironment.csproj.CoreCompileInputs.cache
+/Users/adam/Desktop/SaveTheEnvironment/SaveTheEnvironment/obj/Debug/SaveTheEnvironment.exe
+/Users/adam/Desktop/SaveTheEnvironment/SaveTheEnvironment/obj/Debug/SaveTheEnvironment.pdb
